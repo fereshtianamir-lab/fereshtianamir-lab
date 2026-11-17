@@ -23,7 +23,7 @@ I design, simulate, and measure antennas, microwave circuits from VHF up to Ka-b
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/fereshtianamir-lab/RF-Antenna"><img src="https://github.com/fereshtianamir-lab/RF-Antenna/raw/main/Antenna/HFSS-Simulations/Ka-Band-CP-Array-16x16/array_16x16_hfss_preview.png" width="100%" alt="Ka-band 16x16 phased array"></a>
+<a href="https://github.com/fereshtianamir-lab/RF-Antenna"><img src="https://github.com/fereshtianamir-lab/RF-Antenna/raw/main/Antenna/HFSS-Simulations/Ka-Band-CP-Array-16x16/array_16x16_hfss_model.jpg" width="100%" alt="Ka-band 16x16 phased array"></a>
 <h3><a href="https://github.com/fereshtianamir-lab/RF-Antenna">RF-Antenna</a></h3>
 Antenna and RF design projects from VHF (54 MHz) to Ka-band (21 GHz) in HFSS, CST and FEKO: Ka-band phased arrays for satellite communications, SIW, horn, helix, conical spiral and LPDA antennas, and transmission lines. Includes downloadable source files.
 </td>
@@ -37,7 +37,7 @@ Magnetic-resonance wireless power transfer from 200 kHz to 13.56 MHz (1 MHz, Air
 
 ## 🔬 Research interests
 
-RF/ Antenna, RF energy harvesting · Rectennas · UHF RFID · Phased arrays · Satellite communications · Wireless power transfer · 
+RF/ Antenna, RF energy harvesting · Rectennas · UHF RFID · Phased arrays · Satellite communications · Wireless power transfer ·
 
 ---
 
