@@ -16,7 +16,7 @@ I design, simulate, and measure antennas, microwave circuits from VHF up to Ka-b
 | EM simulation | ANSYS HFSS, CST Studio Suite, Altair FEKO, EM(RF)Pro, ADS |
 | Analysis and code | MATLAB |
 | Measurement | VNA, spectrum analyzer, anechoic chamber, RFID tests |
-| Design | Phased arrays, patch / SIW / horn / helix / spiral antennas, rectennas, impedance matching, WPT coils |
+| Design | Phased arrays, patch / SIW / horn / helix / spiral antennas, rectennas, impedance matching, WPT coils, etc. |
 
 ## 📂 Featured projects
 
