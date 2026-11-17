@@ -2,7 +2,7 @@
 
 **RF & Antenna Design Engineer** · PhD researcher in Electronic Engineering at **Universitat Politècnica de Catalunya (UPC)**, Barcelona
 
-I design, simulate, and measure antennas, microwave circuits from VHF up to Ka-band.
+I design, simulate and measure antennas and microwave circuits from VHF up to Ka-band.
 
 - 🛰️ **Industry experience (2019–2022):** Ka-band phased arrays and CubeSat antennas for satellite communications
 - 🔋 **PhD research:** RF energy harvesting for IoT sensor nodes and UHF RFID read-range enhancement (EU EIC Pathfinder project SUSTAIN)
@@ -47,12 +47,32 @@ UHF RFID tag design and characterization at 866 MHz: passive and semi-passive ta
 </tr>
 </table>
 
+## 📄 Selected publications
+
+**Journal articles**
+
+- **A. Fereshtian**, J. Ghalibafan, M. Koohestani, "A comprehensive design analysis of a cost-effective WPT system with a class-E power amplifier and a T-matching network," *AEU – Int. J. Electron. Commun.*, vol. 137, 153826, 2021.
+- M. Bazgir, Z. Razavi, S. Ebrahimi, **A. Fereshtian**, "Highly Q-factor refractive index sensor based on graphene stack," *Optik*, vol. 268, 169811, 2022.
+- **A. Fereshtian**, J. Ghalibafan, "Impedance matching and efficiency improvement of a dual-band wireless power transfer system using variable inductance and coupling method," *AEU – Int. J. Electron. Commun.*, vol. 116, 153085, 2020.
+
+**Conference papers**
+
+- **A. Fereshtian**, R. A. Retana-González, J. Berenguer, F. Reverter, M. Gasulla, "Live demonstration: a battery-free light-powered semi-passive tag," *IEEE SENSORS*, 2026.
+- R. A. Retana-González, **A. Fereshtian**, F. Reverter, M. Gasulla, "Overcurrent protection for PV-powered semi-passive RFID tags under mixed indoor lighting conditions," *IEEE Sensors Applications Symposium (SAS)*, 2026.
+- **A. Fereshtian**, J. Berenguer, M. Gasulla, "Design of passive and semi-passive RFID tags," *IEEE RFID-TA*, 2025. [doi:10.1109/RFID-TA63091.2025.11265906](https://doi.org/10.1109/RFID-TA63091.2025.11265906)
+- **A. Fereshtian**, J. Berenguer, M. Gasulla, "RF energy survey to assess the feasibility of powering sensor nodes," *IEEE RFID-TA*, 2025.
+- **A. Fereshtian**, R. A. Retana-González, J. Berenguer, F. Reverter, et al., "Read-range extension with semi-passive tags powered by PV cells," *ACM UbiComp/ISWC Companion*, 2025.
+- **A. Fereshtian**, J. Berenguer, M. Gasulla, "Rectenna with a high quality-factor short-circuited transmission line," *IEEE Sensors Applications Symposium (SAS)*, 2024.
+- **A. Fereshtian**, J. Berenguer, M. Gasulla, "RF energy harvesting for IoT sensors: effects of inductor quality factor on efficiency," *IEEE I2MTC*, 2024.
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=Kiwytz8AAAAJ) and [ORCID](https://orcid.org/0000-0003-3187-8855).
+
 ## 🔬 Research interests
 
-RF/ Antenna, RF energy harvesting · Rectennas · UHF RFID · Phased arrays · Satellite communications · Wireless power transfer ·
+RF and antenna design · RF energy harvesting · Rectennas · UHF RFID · Phased arrays · Satellite communications · Wireless power transfer
 
 ---
 
 💬 Open to collaborations and opportunities in RF, antenna, microwave and satellite engineering.
 
-[LinkedIn](https://www.linkedin.com/in/amirfereshtian) · [ORCID](https://orcid.org/0000-0003-3187-8855)
+[LinkedIn](https://www.linkedin.com/in/amirfereshtian) · [Google Scholar](https://scholar.google.com/citations?user=Kiwytz8AAAAJ) · [ORCID](https://orcid.org/0000-0003-3187-8855)
