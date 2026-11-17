@@ -24,24 +24,24 @@ I design, simulate, and measure antennas, microwave circuits from VHF up to Ka-b
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/fereshtianamir-lab/RF-Antenna"><img src="https://github.com/fereshtianamir-lab/RF-Antenna/raw/main/Antenna/HFSS-Simulations/Ka-Band-CP-Array-16x16/array_16x16_hfss_model.jpg" width="100%" alt="Ka-band 16x16 phased array"></a>
-<h3><a href="https://github.com/fereshtianamir-lab/RF-Antenna">RF-Antenna</a></h3>
+<h3><a href="https://github.com/fereshtianamir-lab/RF-Antenna">RF-Antenna</a> <sub>(2014–2021)</sub></h3>
 Antenna and RF design projects from VHF (54 MHz) to Ka-band (21 GHz) in HFSS, CST and FEKO: Ka-band phased arrays for satellite communications, SIW, horn, helix, conical spiral and LPDA antennas, and transmission lines. Includes downloadable source files.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/fereshtianamir-lab/Wireless-Power-Transfer"><img src="https://github.com/fereshtianamir-lab/Wireless-Power-Transfer/raw/main/Media/wpt_led_load.gif" width="100%" alt="Wireless power transfer demo"></a>
-<h3><a href="https://github.com/fereshtianamir-lab/Wireless-Power-Transfer">Wireless-Power-Transfer</a></h3>
+<h3><a href="https://github.com/fereshtianamir-lab/Wireless-Power-Transfer">Wireless-Power-Transfer</a> <sub>(2016–2018)</sub></h3>
 Magnetic-resonance wireless power transfer from 200 kHz to 13.56 MHz (1 MHz, AirFuel 6.78 MHz, ISM bands): HFSS coil models, fabricated prototypes, VNA measurements and demo videos.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/fereshtianamir-lab/RF-Energy-Harvesting-Rectenna"><img src="https://github.com/fereshtianamir-lab/RF-Energy-Harvesting-Rectenna/raw/main/Media/rectenna_sensor_node_demo.gif" width="100%" alt="868 MHz rectenna powering an IoT sensor node"></a>
-<h3><a href="https://github.com/fereshtianamir-lab/RF-Energy-Harvesting-Rectenna">RF-Energy-Harvesting-Rectenna</a></h3>
+<h3><a href="https://github.com/fereshtianamir-lab/RF-Energy-Harvesting-Rectenna">RF-Energy-Harvesting-Rectenna</a> <sub>(2023–2026)</sub></h3>
 868 MHz rectenna prototypes for battery-free IoT sensor nodes and UHF RFID: microstrip L-matching network with a high-Q short-circuited line, MPPT-powered sensor node demo, indoor/outdoor RF energy surveys and labeled measurement setups.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/fereshtianamir-lab/RFID"><img src="https://github.com/fereshtianamir-lab/RFID/raw/main/Media/pv_semi_passive_tag_in_situ.gif" width="100%" alt="PV-powered semi-passive RFID tag in-situ test"></a>
-<h3><a href="https://github.com/fereshtianamir-lab/RFID">RFID</a></h3>
+<h3><a href="https://github.com/fereshtianamir-lab/RFID">RFID</a> <sub>(2025–2026)</sub></h3>
 UHF RFID tag design and characterization at 866 MHz: passive and semi-passive tags, VNA antenna impedance measurement, anechoic-chamber tests and PV-powered semi-passive tags, with demo videos.
 </td>
 </tr>
