@@ -33,6 +33,14 @@ Antenna and RF design projects from VHF (54 MHz) to Ka-band (21 GHz) in HFSS, CS
 Magnetic-resonance wireless power transfer from 200 kHz to 13.56 MHz (1 MHz, AirFuel 6.78 MHz, ISM bands): HFSS coil models, fabricated prototypes, VNA measurements and demo videos.
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/fereshtianamir-lab/RF-Energy-Harvesting-Rectenna"><img src="https://github.com/fereshtianamir-lab/RF-Energy-Harvesting-Rectenna/raw/main/Media/rectenna_sensor_node_demo.gif" width="100%" alt="868 MHz rectenna powering an IoT sensor node"></a>
+<h3><a href="https://github.com/fereshtianamir-lab/RF-Energy-Harvesting-Rectenna">RF-Energy-Harvesting-Rectenna</a></h3>
+868 MHz rectenna prototypes for battery-free IoT sensor nodes and UHF RFID: microstrip L-matching network with a high-Q short-circuited line, MPPT-powered sensor node demo, indoor/outdoor RF energy surveys and labeled measurement setups.
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ## 🔬 Research interests
