@@ -42,3 +42,5 @@ RF energy harvesting · Rectennas · UHF RFID · Phased arrays · Satellite comm
 ---
 
 💬 Open to collaborations and opportunities in RF, antenna, microwave and satellite engineering.
+
+[LinkedIn](https://www.linkedin.com/in/amirfereshtian) · [ORCID](https://orcid.org/0000-0003-3187-8855)
