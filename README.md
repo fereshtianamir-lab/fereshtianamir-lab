@@ -2,7 +2,7 @@
 
 **RF & Antenna Design Engineer** · PhD researcher in Electronic Engineering at **Universitat Politècnica de Catalunya (UPC)**, Barcelona
 
-I design, simulate and measure antennas, microwave circuits and wireless power systems, from VHF up to Ka-band.
+I design, simulate, and measure antennas, microwave circuits from VHF up to Ka-band.
 
 - 🛰️ **Industry experience (2019–2022):** Ka-band phased arrays and CubeSat antennas for satellite communications
 - 🔋 **PhD research:** RF energy harvesting for IoT sensor nodes and UHF RFID read-range enhancement (EU EIC Pathfinder project SUSTAIN)
@@ -37,7 +37,7 @@ Magnetic-resonance wireless power transfer from 200 kHz to 13.56 MHz (1 MHz, Air
 
 ## 🔬 Research interests
 
-RF energy harvesting · Rectennas · UHF RFID · Phased arrays · Satellite communications · Wireless power transfer · Antenna measurement
+RF/ Antenna, RF energy harvesting · Rectennas · UHF RFID · Phased arrays · Satellite communications · Wireless power transfer · 
 
 ---
 
